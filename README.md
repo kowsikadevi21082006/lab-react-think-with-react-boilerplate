@@ -216,3 +216,7 @@ In this exercise, you've learnt various ways of setting up react in your system.
 This concludes the React setup. We are proud of you!
 
 Happy Coding ❤️!
+#   T h i n k - w i t h - R e a c t  
+ #   T h i n k - w i t h - R e a c t  
+ #   T h i n k - w i t h - R e a c t  
+ 
